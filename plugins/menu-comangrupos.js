@@ -19,10 +19,10 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕 」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
-│➯ *Número*➟51935763050
+│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕
+│➯ *Número*➟56922224359
 │➯ *canal-YouTube*
 │➯ *https://youtube.com/@hades_bot2391
 │➯ *ғᴇᴄʜᴀ:➟${date}

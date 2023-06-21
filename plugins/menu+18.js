@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*Hola estás en el menú+18 elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*Hello you are in the menu+18 choose an option and ask for an image*\n╰───────────────╯`)
+await m.reply(`╭「 𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕 」\n│➯(♦️)*Hola estás en el menú+18 elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*Hello you are in the menu+18 choose an option and ask for an image*\n╰───────────────╯`)
 let pp = imagen4
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
 let d = new Date(new Date + 3600000)
@@ -17,10 +17,10 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ᴏᴡɴᴇʀ:ᴏғᴄ➟𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭
-│➯*Número*➟51935763050
+│➯ᴏᴡɴᴇʀ:ᴏғᴄ➟𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕
+│➯*Número*➟56922224359
 │➯*canal-YouTube*
 │➯https://youtube.com/@hades_bot2391
 │➯ғᴇᴄʜᴀ:➟${date}
@@ -28,7 +28,7 @@ let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+╭「 𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕 」
 │➯*Menu*+18*
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢

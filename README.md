@@ -1,8 +1,8 @@
-# `🧿𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭🧿`
+# `🧿𝑪𝒔𝒂𝒓𝒇𝒇𝒙𝑩𝒐𝒕🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/56922224359" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/56922224359" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
